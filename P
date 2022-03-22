@@ -1,2 +1,5 @@
-#EXTINF:-1,Thiruttupayalae
+#EXTINF:-1,Thirupiranha
 https://mohanrc2.herokuapp.com/dl/1062/WorldCinemaToday_Piranha_2010_Tamil_Dubbed_Full_Movie_720p_HD.mkv
+
+#EXTINF:-1,lethal
+https://mohanrc2.herokuapp.com/dl/1075/L_E_T_H_A_L_Ladies_Return_to_Savage_Beach_1998_Full_movie_online.mp4
